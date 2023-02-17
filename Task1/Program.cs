@@ -15,5 +15,6 @@ if (length == 3)
 }
 else
 {
-  Console.WriteLine("Вы ввели не трёхзначное число!");
+  Console.WriteLine("Число не является трёхзначным!!!");
+  Console.WriteLine("Повторите ввод трёхзначного числа.");
 }
